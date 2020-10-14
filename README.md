@@ -8,10 +8,10 @@ The aim of the School District Analysis was to accomplish a Math & Reading Test 
 - District Summary Analysis
     - The analysis on the District level did not show any changes that were significant when the Thomas High School 9th grade class test scores were removed, as shown in the images below.\
 **District Summary with Thomas High School 9th Grade Class**\
-[District Summary with THS 9th Grade](https://github.com/ABonuan/School_District_Analysis/blob/main/Resources/District%20Summary%20with%20THS%209th%20Grade.png)
+![alt text](https://github.com/ABonuan/School_District_Analysis/blob/main/Resources/District%20Summary%20with%20THS%209th%20Grade.png?raw=True)
 \
 **District Summary without Thomas High School 9th Grade Class**\
-[District Summary without THS 9th Grade](https://github.com/ABonuan/School_District_Analysis/blob/main/Resources/District%20Summary%20without%20THS%209th%20Grade.png)
+![alt text](https://github.com/ABonuan/School_District_Analysis/blob/main/Resources/District%20Summary%20without%20THS%209th%20Grade.png?raw=True)
 
 - School Summary Analysis
     - Thomas High School Performance After Removing 9th Grade Information
